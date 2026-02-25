@@ -21,7 +21,7 @@ O desenvolvimento deste projeto focou em:
 
 ## 🔗 Acesso ao Projeto
 
-**Link para o Deploy (Site Online):** [https://francielebrs-13.github.io/Aula01.desenvolvimento.frontend/](https://francielebrs-13.github.io/Aula01.desenvolvimento.frontend/)
+**Link para o Deploy (Site Online):** [https://francielebrs-13.github.io/Aula01.desenvolvimento.frontend/](https://francielebrs-13.github.io/Site.lumie.animais/)
 **Repositório Git:** [https://github.com/francielebrs-13/Aula01.desenvolvimento.frontend](https://github.com/francielebrs-13/Aula01.desenvolvimento.frontend)
 
 ---
